@@ -1,0 +1,5 @@
+.gradle
+./idea/*
+!.idea/dictionaries
+/build
+log.txt
